@@ -2,6 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/
 
 Public link to the slide (Anyone on the internet can view without login):
+https://shorturl.at/hiN28
 
 Paper title:
 Remote Sensing Satellite Image-Based Monitoring of Agricultural Ecosystem
